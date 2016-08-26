@@ -65,6 +65,7 @@ TTS_KEY_A=Qt.Key_F4
 
 # Key to get the whole Question field pronounced, if there is a [GTTS::] tags, it will only read the tags
 TTS_KEY_Q_ALL=Qt.Key_F6
+TTS_KEY_Q_ALL=Qt.Key_5
 
 # Key to get the whole Answer field pronounced, if there is a [GTTS::] tags, it will only read the tags
 TTS_KEY_A_ALL=Qt.Key_F7
